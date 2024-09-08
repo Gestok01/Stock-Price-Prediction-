@@ -18,10 +18,9 @@ Download the Dataset needed for running the code from [here](https://drive.googl
 ### Methodology 
 1. Preprocessing and Cleaning
 2. Feature Extraction
-3. Twitter Sentiment Analysis and Score
-4. Data Normalization
-5. Analysis of various supervised learning methods
-6. Conclusions
+3. Data Normalization
+4. Analysis of various supervised learning methods
+5. Conclusions
 
 ### Research Paper
 - [Machine Learning in Stock Price Trend Forecasting. Yuqing Dai, Yuning Zhang](http://cs229.stanford.edu/proj2013/DaiZhang-MachineLearningInStockPriceTrendForecasting.pdf)
@@ -33,12 +32,6 @@ Download the Dataset needed for running the code from [here](https://drive.googl
 1. http://www.nasdaq.com/
 2. https://in.finance.yahoo.com
 3. https://www.google.com/finance
-
-
-### Useful Links 
-- **Slides**: http://www.slideshare.net/SharvilKatariya/stock-price-trend-forecasting-using-supervised-learning
-- **Video**: https://www.youtube.com/watch?v=z6U0OKGrhy0
-- **Report**: https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf
 
 ### References
 - [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
